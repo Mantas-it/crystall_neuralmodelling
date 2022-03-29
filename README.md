@@ -4,7 +4,7 @@
 Available online: -
 doi: --
 
-Required: python 3.7; tensorflow 2.4.1; RDkit 2021.03; 
+Required: python 3.8; tensorflow 2.4.1; RDkit 2021.03; 
 The code is in Jupyter Notebook format for more convenient prototyping, Anaconda environment is recommended.
 GPU with support for CUDA 10.1 is recommended
 
