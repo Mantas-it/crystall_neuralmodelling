@@ -1,8 +1,8 @@
 # Article repository
-"Title".
+"Modeling of the Crystallization Conditions for Organic Synthesis Product Purification Using Deep Learning".
 
-Available online: -
-doi: --
+Available online: [here](https://www.mdpi.com/2079-9292/11/9/1360)
+doi: 10.3390/electronics11091360
 
 Required: python 3.8; tensorflow 2.4.1; RDkit 2021.03; 
 The code is in Jupyter Notebook/Jupyter lab format for more convenient prototyping, Anaconda environment is recommended.
